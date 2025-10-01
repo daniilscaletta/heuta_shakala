@@ -1,0 +1,30 @@
+-----------------------16:00-----------------------
+[16:00]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[16:00]::[LCT-ATS]::INIT::UDP(c) <- (uid=OFHH) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) <- (uid=Blqs) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) <- (uid=kyfI) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) -> (uid=gSPP) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) -> (uid=KKUK) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) -> (uid=cWyX) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) -> (uid=Qhbt) инициализирован.
+[16:00]::[LCT-ATS]::INIT::UDP(c) -> (uid=tbIM) инициализирован.
+[16:00]::[LCT-ATS]::INIT::Загрузка завершена.
+[16:00]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[16:00]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[16:01]::[LCT-ATS]::INFO::Выполнена команда: /start
+[16:01]::[LCT-ATS]::INFO::
+
+
+[16:01]::[LCT-ATS]::INFO::Активация КП:
+[16:01]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': True,
+  'CybP_06': False
+}
+[16:01]::[LCT-ATS]::INFO::Заезд (rcNufy): запущен
+[16:01]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[16:08]::[LCT-ATS]::INFO::Робот достиг финишной зоны
+[16:08]::[LCT-ATS]::INFO::Заезд (rcNufy): остановлен - по достижению зоны финиша

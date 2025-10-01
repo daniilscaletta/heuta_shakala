@@ -1,0 +1,30 @@
+-----------------------11:13-----------------------
+[11:13]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[11:13]::[LCT-ATS]::INIT::UDP(c) <- (uid=AewG) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) <- (uid=fiFg) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) <- (uid=SIvD) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) -> (uid=smlu) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) -> (uid=fFHe) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) -> (uid=YJBo) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) -> (uid=wRMa) инициализирован.
+[11:13]::[LCT-ATS]::INIT::UDP(c) -> (uid=cbll) инициализирован.
+[11:13]::[LCT-ATS]::INIT::Загрузка завершена.
+eiver): http://127.0.0.1:13501
+[11:13]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[11:14]::[LCT-ATS]::INFO::Выполнена команда: /start
+[11:14]::[LCT-ATS]::INFO::
+
+
+[11:14]::[LCT-ATS]::INFO::Активация КП:
+[11:14]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': True,
+  'CybP_06': False
+}
+[11:14]::[LCT-ATS]::INFO::Заезд (NTMjwR): запущен
+[11:14]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[11:17]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[11:17]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

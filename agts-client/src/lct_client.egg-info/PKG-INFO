@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: lct-client
+Version: 1.0.0
+Summary: User-code space
+Requires-Python: >=3.12
+License-File: LICENSE
+Requires-Dist: black>=25.1.0
+Requires-Dist: fastapi>=0.116.1
+Requires-Dist: openlog>=2.1.0
+Requires-Dist: requests>=2.32.5
+Requires-Dist: uvicorn>=0.35.0
+Requires-Dist: robotpy>=2025.3.2.2
+Requires-Dist: robotpy-native-wpimath>=2025.3.2
+Requires-Dist: simple-pid>=2.0.1
+Requires-Dist: crc8>=0.2.1
+Requires-Dist: jupyterlab>=4.4.7
+Requires-Dist: notebook>=7.4.5
+Requires-Dist: numpy>=2.3.3
+Requires-Dist: opencv-python>=4.11.0.86
+Dynamic: license-file

@@ -1,0 +1,31 @@
+-----------------------23:42-----------------------
+[23:42]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[23:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=etxJ) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=XjsX) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=RBCj) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=YmCT) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=ertP) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=fCHU) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=NFTo) инициализирован.
+[23:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=fWaj) инициализирован.
+[23:42]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[23:42]::[LCT-ATS]::INIT::Загрузка завершена.
+[23:43]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[23:43]::[LCT-ATS]::INFO::Выполнена команда: /start
+[23:43]::[LCT-ATS]::INFO::
+
+
+[23:43]::[LCT-ATS]::INFO::Активация КП:
+[23:43]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': True,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[23:43]::[LCT-ATS]::INFO::Заезд (Aqhldq): запущен
+[23:43]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[23:44]::[LCT-ATS]::WARN::КП (CybP_03) активировано: Компрометация кода приводов (2)
+[23:44]::[LCT-ATS]::WARN::КП (CybP_03) деактивировано
+[23:44]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.
